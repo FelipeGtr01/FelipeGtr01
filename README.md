@@ -5,7 +5,7 @@
 <p> 👨‍💻 I'm currently taking ADS at Fatec; </p>
 <p> 📚 And this is my GitHub profile. </p>
 
-
+##
 
 <div align="center">
   <a href="https://github.com/FelipeGtr01">
@@ -14,7 +14,7 @@
   </a>
 </div>
   
-  .
+ ## 
   
 <p> 😄 Thank you for visiting ... </p>
   
