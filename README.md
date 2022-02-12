@@ -1,5 +1,7 @@
 ### Hello, and welcome! 👋
 
+<img height="180em" src="https://c.tenor.com/NuKLjcqaiqsAAAAC/welcome.gif">
+
 <p> ✨ How are you today? </p>
 <p> 🤓 I'm Felipe Gutierre; </p>
 <p> 👨‍💻 I'm currently taking ADS at Fatec; </p>
@@ -16,9 +18,9 @@
   
  ## 
   
-<p> 😄 Thank you for visiting ... </p>
+<p> 😄 Thanks for visiting, and happy browsing! ... </p>
   
-<img src="https://1.bp.blogspot.com/-7UdaTRCTVVQ/WDWLMlUY1dI/AAAAAAAAXtA/NGcUSCT1xhQxPtn9kRVQMJEuoZP-WVvUQCLcB/s1600/Gif%2BTchau%2BUrsinho%2521.gif">
+<img height="180em" src="https://1.bp.blogspot.com/-7UdaTRCTVVQ/WDWLMlUY1dI/AAAAAAAAXtA/NGcUSCT1xhQxPtn9kRVQMJEuoZP-WVvUQCLcB/s1600/Gif%2BTchau%2BUrsinho%2521.gif">
 
 <!--
 ✨ _special_ ✨ 
